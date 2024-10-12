@@ -1,6 +1,6 @@
 # Temario DAW
 
-Temario, apuntes y ejercicios del módulo de Desarrollo de Aplicaciones Web (DAW)
+Temario, apuntes y ejercicios del módulo de Desarrollo de Aplicaciones Web (DAW).
 
   - [Bases de datos](BBDD)
   - [Despliegue de Aplicaciones Web](DAW)
